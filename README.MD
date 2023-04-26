@@ -1,4 +1,9 @@
 ### :man_technologist: About Me:
+Hi there, I'm Phong
+
+<b>BIO</b><br>
+I'm a AI Engineer based in Hahalolo, Vietnam.
+I love Deep learning and Vi.
 
 ---
 
