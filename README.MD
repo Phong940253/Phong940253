@@ -24,7 +24,7 @@ I love Deep learning and Vi.
 
 ### :fire: My Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=?user=Phong940253&theme=dracula&date_format=d%20F[%20Y])](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Phong940253&theme=dracula&date_format=d%20F[%20Y])](https://git.io/streak-stats)
 
 
 
