@@ -34,7 +34,7 @@ I love Deep learning and Vi.
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phong940253&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@phong940253)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact Me
 
